@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profile REST API course code.
+Backend code for project is here.
