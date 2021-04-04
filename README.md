@@ -1,3 +1,2 @@
-# Profiles REST API
-
-Backend code for project is here.
+# recipe-app-api
+Recipe app api source code.
